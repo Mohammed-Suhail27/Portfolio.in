@@ -36,7 +36,7 @@ const Work = () => {
             >
               <div className="absolute w-4 h-4 rounded-full bg-white blur-[0.7rem]"></div>
               <h3 className="font-medium ml-7 text-nowrap text-sm text-gray-200/50 ">
-                MOHAMMED SUHAiL — Fullstack Developer
+                MOHAMMED SUHAIL — Fullstack Developer
               </h3>
             </motion.div>
             <motion.section
